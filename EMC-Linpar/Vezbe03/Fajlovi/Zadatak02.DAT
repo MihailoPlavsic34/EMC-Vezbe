@@ -1,0 +1,54 @@
+
+
+ Matrices [L] and [C] for zero-thickness coupled microstrips
+ above finite ground plane
+
+
+ Number of strips  1
+
+    Strip #    Width (mm )  Number of pulses
+       1        1.000E+01           4
+
+ Substrate thickness 1.000E+00 mm
+ Shoulder width 4.000E+00 mm , number of pulses  8
+ Substrate relative permittivity 1.000E+00
+
+ Cover height 2.000E+00 mm
+ Upper layer relative permittivity 1.000E+00
+
+
+
+ Matrix [L] (H/m)
+
+   5.894E-08
+
+
+
+ Matrix [C] (F/m)
+
+   1.888E-10
+
+
+
+ Characteristic impedance matrix (ê)
+
+   1.767E+01
+
+
+ Modal phase velocities (m/s) and effective permittivities
+
+   2.998E+08 ( 1.000E+00) 
+
+
+ Modal voltage matrix (V)
+
+   1.000E+00
+
+
+ Modal current matrix (A)
+
+   5.659E-02
+
+
+ Characteristic impedance (ê)   1.767E+01
+ Effective permittivity         1.000E+00

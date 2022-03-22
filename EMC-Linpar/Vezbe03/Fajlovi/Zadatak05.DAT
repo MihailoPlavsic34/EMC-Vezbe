@@ -1,0 +1,69 @@
+
+
+ Matrices [L] and [C] for zero-thickness coupled microstrips
+ above finite ground plane
+
+
+ Number of strips  3
+
+    Strip #    Width (mm )  Number of pulses
+       1        1.000E+00           2
+       2        1.000E+00           2
+       3        1.000E+00           2
+
+ Separation #  Width (mm )  Number of pulses
+       1        4.500E+00           3
+       2        4.500E+00           3
+
+ Substrate thickness 1.000E+00 mm
+ Shoulder width 3.000E+00 mm , number of pulses  3
+ Substrate relative permittivity 5.000E+00
+
+ Cover height 2.000E+00 mm
+ Upper layer relative permittivity 5.000E+00
+
+
+
+ Matrix [L] (H/m)
+
+   3.555E-07  4.622E-11 -4.115E-14
+   4.621E-11  3.558E-07  4.624E-11
+  -4.035E-14  4.621E-11  3.555E-07
+
+
+
+ Matrix [C] (F/m)
+
+   1.565E-10 -2.033E-14  3.066E-17
+  -2.032E-14  1.563E-10 -2.033E-14
+   3.011E-17 -2.032E-14  1.565E-10
+ 
+ 
+ S125 Nonphysical matrix [L] or [C]
+
+
+
+ Characteristic impedance matrix (ê)
+
+   4.767E+01  6.197E-03 -7.475E-06
+   6.197E-03  4.771E+01  6.197E-03
+  -4.668E-06  6.197E-03  4.767E+01
+
+
+ Modal phase velocities (m/s) and effective permittivities
+
+   1.341E+08 ( 5.000E+00)    1.341E+08 ( 5.000E+00)    1.341E+08 ( 5.000E+00) 
+
+
+ Modal voltage matrix (V)
+
+  -1.114E-03  8.203E-01 -5.719E-01
+   1.000E+00  1.583E-03  9.358E-05
+  -8.516E-04  5.719E-01  8.203E-01
+
+
+ Modal current matrix (A)
+
+  -2.611E-05  1.721E-02 -1.200E-02
+   2.096E-02  2.940E-05  1.284E-06
+  -2.059E-05  1.200E-02  1.721E-02
