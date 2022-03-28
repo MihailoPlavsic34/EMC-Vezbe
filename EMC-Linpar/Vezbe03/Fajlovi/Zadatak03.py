@@ -1,3 +1,5 @@
+# %%
+
 from cProfile import label
 from re import L
 import numpy as np
@@ -62,3 +64,5 @@ plt.show()
 
 
 
+
+# %%
