@@ -11,6 +11,6 @@ print('Hz sa beskonacnom provodnom ravni opada kao stepen: ', s2)
 print('na 30MHz Ey opada kao stepen: ', s3)
 print('Na 10m elektricno polje je: 1.2e-6 V/m - sto zadovoljava standard')
 print('na 300MHz Ey opada kao stepen: ', s4)
-print('Na 10m elektricno polje je: 120e-6 V/m - sto zadovoljava standard')
+print('Na 10m elektricno polje je: 120e-6 V/m - sto ne zadovoljava standard')
 print('Sa grafika se vidi da je najveci gejn (samim tim i sprega) u ravni konture')
 # %%

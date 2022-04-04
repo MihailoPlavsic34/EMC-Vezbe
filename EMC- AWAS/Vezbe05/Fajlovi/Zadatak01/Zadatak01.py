@@ -1,5 +1,6 @@
 import math
 # %%
+import math
 f=1e9
 c=3e8
 lambda_=c/f

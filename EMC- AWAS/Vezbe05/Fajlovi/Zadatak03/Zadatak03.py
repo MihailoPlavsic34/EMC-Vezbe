@@ -8,4 +8,3 @@ L=2*(40+20)*1e-3
 Lambda=c/f_max
 print('Odnos talasne duzine u slucaju maksimalne sprege i duzine spoljasnje konture je: ', str(Lambda/L),
  'sto je uporedivo obimom zatvorene zicane kruzne antene')
-# %%
