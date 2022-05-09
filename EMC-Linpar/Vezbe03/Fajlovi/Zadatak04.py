@@ -1,3 +1,4 @@
+# %%
 from cProfile import label
 from re import L
 import numpy as np
@@ -83,3 +84,5 @@ plt.legend()
 plt.savefig('Zadatak04_fig2.png')
 plt.show()
 
+
+# %%

@@ -22,7 +22,7 @@ plt.savefig(
     'D:\Storage\Documents\Faks\VIII semestar\EMC\Vezbe\EMC- AWAS\Vezbe06\Fajlovi\Zadatak03\Zadatak03.png')
 plt.show()
 af = AF[np.where(f == 185000000.0)[0]]
-E=10**(af+10*np.log10(R*10**(-61/10)*1e-3))
+E=10**( (af+10*np.log10(R*10**(-61/10)*1e-3))/20 )
 print('Intenzitet elektricnog polja za P=-61dBm, f=185 MHz je:', E, 'V/m')
 
 # %%
