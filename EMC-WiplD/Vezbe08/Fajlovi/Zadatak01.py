@@ -26,7 +26,7 @@ def fmnl(m,n,l):
 
 print('Minimalna rezonantna frekvencija je: ', fmnl(1, 0, 1), 'Hz')
 
-Eeff=(1**2+1**2)**0.5/2**0.5
+Eeff=(1**2+1**2)**0.5
 Emax=5
 print('Efektivna vrednost elektricnog polja van kucista je: ', Eeff, 'Odnos je: ', Emax/Eeff)
 # %%

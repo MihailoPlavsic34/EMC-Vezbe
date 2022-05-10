@@ -1,0 +1,5 @@
+Pikovi u spektru su na:
+20kHz
+40kHz
+60kHz
+itd

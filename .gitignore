@@ -20,3 +20,12 @@
 *.ra1
 *.RVP
 *.tra
+*.aux
+*.fdb_latexmk
+*.fls
+*.gz
+*.xdv
+*.fft
+*.asc
+*.raw
+*.net
