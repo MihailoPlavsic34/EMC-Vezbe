@@ -1,0 +1,25 @@
+Circuit: * D:\Storage\Documents\Faks\VIII semestar\EMC\Vezbe\EMC - LT-Spice\Vezbe09\Fajlovi\Zadatak03\Draft1.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon May 23 02:52:29 2022
+Total elapsed time: 1.540 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 462242
+traniter = 462218
+tranpoints = 190428
+accept = 117970
+rejected = 72458
+matrix size = 36
+fillins = 24
+solver = Normal
+Matrix Compiler1: 4.13 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.3
+

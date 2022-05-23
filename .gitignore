@@ -26,6 +26,5 @@
 *.gz
 *.xdv
 *.fft
-*.asc
 *.raw
 *.net

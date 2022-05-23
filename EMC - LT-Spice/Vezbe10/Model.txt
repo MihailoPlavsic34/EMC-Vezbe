@@ -1,0 +1,1 @@
+.model 1SR156-400 D(Is=72.169E-9 N=2.0427 Rs=75.306E-3 Ikf=51.357E-3 Cjo=33.986E-12 M=.51481 Vj=.47751 Isr=512.43E-15 Bv=500 tt=245.00E-9 Iave=1 Vpk=500 mfg=Rohm type=Rectifier)
